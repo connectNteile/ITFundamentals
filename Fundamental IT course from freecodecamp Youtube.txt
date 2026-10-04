@@ -1,0 +1,48 @@
+Hardware and Software
+
+Computing Devices
+They are devices used in our daily life e.g. Mobile phones, laptops, ipad, tablets, deskop pcs
+digital camera, IPTV setTop boxex and servers amongs others.
+-CPU is the central processing unit of the computer . it is the brain. it is involved in all operation that runs the computer
+-it is the mediator between the hardware and software.
+-RAM is used to run the software
+-Hardware Disk Drive and Solid State Drive used to persistent storage for OS, Data and Application.
+-NIC network interface card for interacting to network and internet
+-Monitor the display to read and view data
+-Graphics card or GCPUs for accelerating video display e.g. for gaming
+
+Compute Component - Units
+Units are for measuring the different computer component
+-CPU speed is measured in GHz
+-Memory and storage devices are measured in Giga bytes or Tera bytes(GB and TB)
+-Network interface card speed is measured in Mega bits per second or giga bits per second(
+Mbps or Gbps)
+
+
+SOFTWARE OS, GUI, CLI, APPLICATIONS
+INSTRUction that tell a computer what to do. its the invisible part that powers everything
+-operating system is the system software e.g. windows, andriod, Macos
+it manages the hardware component, responsible for running the installed app, handles files and permissions,
+provides a GUI a user inface, provides a CLI
+
+GUI or CLI - how to communicate with the computer
+-GUI uses icons, windows, mouse
+-CLI uses commands you type into the screen(either black or blue)
+features                 windows               linux
+Gui or Cli		 Mostly Gui            Mostly Cli
+Cost of OS               paid                  Free and open source
+Popular use              Desktop/laptops       Servers
+Flexibility              Limited control       highly customizable
+
+What is OPEN SOURCE Software
+-Open source is a software anyone can look at , use , change it and share it for free
+-Linux OS is an example of open source software.
+
+Software Application OVERVIEW
+-Application software, built for particular purpose or perform specific task e.g.
+whatsapp, chrome, zoom, excel. The app runs on the system software
+Types of application
+-Desktop, Mobile,Web applicaton, cloud application( Run online e.g googledoc
+
+Module 2:SERVERS AND VIRTUALIZATION
+
